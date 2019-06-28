@@ -26,24 +26,27 @@ TensorFlow and Keras Implementation of ["Perceptual image quality using Dual gen
 	<img src="img/result-2.png" width="60%" height="40%"/>
 </div>
 </a>
-
+</br>
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
 	<img src="img/result-3.png" width="60%" height="40%"/>
 </div>
 </a>
+</br>
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
 	<img src="img/result-4.png" width="60%" height="40%"/>
 </div>
 </a>
+</br>
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
 	<img src="img/Tables.png" width="60%" height="40%"/>
 </div>
 </a>
+</br>
 
 ### Prepare Data and Pre-trained VGG
 
