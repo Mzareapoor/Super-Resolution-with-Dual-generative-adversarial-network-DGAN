@@ -8,7 +8,7 @@ TensorFlow and Keras Implementation of ["Perceptual image quality using Dual gen
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/model.jpeg" width="80%" height="10%"/>
+	<img src="img/model.png" width="80%" height="10%"/>
 </div>
 </a>
 
