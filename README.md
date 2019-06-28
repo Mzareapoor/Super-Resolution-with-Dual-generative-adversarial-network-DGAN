@@ -1,4 +1,5 @@
-# Super-Resolution-with-Dual-generative-adversarial-network-DGAN
+## Super Resolution with Dual generative adversarial network  
+
 
 
 ### DGAN Architecture
@@ -38,16 +39,10 @@ TensorFlow and Keras Implementation of ["Perceptual image quality using Dual gen
 </div>
 </a>
 
-<a href="http://tensorlayer.readthedocs.io">
-<div align="center">
-	<img src="img/DGAN_Tables.png" width="80%" height="50%"/>
-</div>
-</a>
-
 ### Prepare Data and Pre-trained VGG
 
 - 1. You need to download the pretrained VGG19 model in [here](https://mega.nz/#!xZ8glS6J!MAnE91ND_WyfZ_8mvkuSa2YcA7q-1ehfSm-Q1fxOvvs) as [tutorial_vgg19.py](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_vgg19.py) show.
-- 2. need to have the high resolution images for training.
+- 2. You need to have the high resolution images for training.
   -  In this experiment, I used images from [DIV2K and CIFAR-10], so the hyper-paremeters in `config.py` (like number of epochs) are seleted basic on that dataset, if you change a larger dataset you can reduce the number of epochs. 
   -  If you dont want to use these dataset, you can also use [Yahoo MirFlickr25k](http://press.liacs.nl/mirflickr/mirdownload.html), just simply download it using `train_hr_imgs = tl.files.load_flickr25k_dataset(tag=None)` in `main.py`. 
   
@@ -79,4 +74,5 @@ title = {{Perceptual image quality using dual generative adversarial network}},
 year = {2019}
 }
 ```
+
 
