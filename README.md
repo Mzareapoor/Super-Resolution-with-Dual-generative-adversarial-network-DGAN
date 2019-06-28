@@ -17,13 +17,13 @@ TensorFlow and Keras Implementation of ["Perceptual image quality using Dual gen
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/result-1.png" width="80%" height="50%"/>
+	<img src="img/result-1.png" width="50%" height="30%"/>
 </div>
 </a>
-
+</br>
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/result-2.png" width="50%" height="40%"/>
+	<img src="img/result-2.png" width="60%" height="40%"/>
 </div>
 </a>
 
